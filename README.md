@@ -1,3 +1,3 @@
 sumzz.github.io
 ===============
-简历
+resume 简历
